@@ -1,4 +1,4 @@
-# Code snippets
+# Code
 
 Single-cell analysis of childhood leukemia reveals a link between developmental states and ribosomal protein expression as a source of intra-individual heterogeneity 
 
